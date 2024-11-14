@@ -7,6 +7,7 @@ i would like to comeback to this project when possible and improve it by using t
 
 ## Images of the Web Application.
 
+The quality of the images is a bit bad so a way to view them better is my clicking on them
 
 <details>
 <summary><h3>Home Page</h3></summary>
